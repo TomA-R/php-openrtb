@@ -2,7 +2,7 @@
 
 This library has been created for PHP developers using the OpenRTB protocol. It provides a very lightweight wrapper to create, validate, and hydrate **Bid Requests** and **Bid Responses**. Getting started could not be easier, find our package on packagist: https://packagist.org/packages/beishanwen/php-openrtb
 
-Install by adding { .. "beishanwen/php-openrtb": "0.1" .. } to your composer.json file.
+Install by adding { .. "beishanwen/php-openrtb": "0.2" .. } to your composer.json file.
 
 The wrapper requires Guzzle. This can be used to further extends the library where required. More information about Guzzle can be found here: http://guzzle.readthedocs.org/en/latest/
 

@@ -1,6 +1,7 @@
 {
   "name": "beishanwen/php-openrtb",
   "description": "beishanwen php OpenRTB",
+  "license": "MIT",
   "authors": [
     {
       "name": "Strick Yan",
