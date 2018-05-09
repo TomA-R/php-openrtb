@@ -11,28 +11,7 @@
                "price":0.5,
                "dealid": "ABC-1234-6789",
                "id":"STICKY_123_1_0",
-               "adm":"<?xml version='1.0' encoding='UTF-8'?>
-<VAST version='2.0'>
- <Ad id='sticky4532'>
-  <InLine>
-   <AdSystem>sticky</AdSystem>
-   <AdTitle><![CDATA[Test ABO - punto RTB]]></AdTitle>
-   <Description><![CDATA[Test ABO - RTB - punto]]></Description>
-   <Creatives>
-    <Creative id='4532'>
-     <Linear>
-      <Duration>00:00:25</Duration>
-      <MediaFiles>
-       <MediaFile delivery='progressive' bitrate='250' width='1280' height='720' type='video/mp4'>
-        <![CDATA[http://cdn1-preprod.stickyadstv.com/www/images/puntoptwzencoder_4.mp4]]>
-       </MediaFile>
-      </MediaFiles>
-     </Linear>
-    </Creative>
-   </Creatives>
-  </InLine>
- </Ad>
-</VAST>"
+               "adm":"%0A%3C%3Fxml%20version%3D%271.0%27%20encoding%3D%27UTF-8%27%3F%3E%0A%3CVAST%20version%3D%272.0%27%3E%0A%20%3CAd%20id%3D%27sticky4532%27%3E%0A%20%20%3CInLine%3E%0A%20%20%20%3CAdSystem%3Esticky%3C%2FAdSystem%3E%0A%20%20%20%3CAdTitle%3E%3C%21%5BCDATA%5BTest%20ABO%20-%20punto%20RTB%5D%5D%3E%3C%2FAdTitle%3E%0A%20%20%20%3CDescription%3E%3C%21%5BCDATA%5BTest%20ABO%20-%20RTB%20-%20punto%5D%5D%3E%3C%2FDescription%3E%0A%20%20%20%3CCreatives%3E%0A%20%20%20%20%3CCreative%20id%3D%274532%27%3E%0A%20%20%20%20%20%3CLinear%3E%0A%20%20%20%20%20%20%3CDuration%3E00%3A00%3A25%3C%2FDuration%3E%0A%20%20%20%20%20%20%3CMediaFiles%3E%0A%20%20%20%20%20%20%20%3CMediaFile%20delivery%3D%27progressive%27%20bitrate%3D%27250%27%20width%3D%271280%27%20height%3D%27720%27%20type%3D%27video%2Fmp4%27%3E%0A%20%20%20%20%20%20%20%20%3C%21%5BCDATA%5Bhttp%3A%2F%2Fcdn1-preprod.stickyadstv.com%2Fwww%2Fimages%2Fpuntoptwzencoder_4.mp4%5D%5D%3E%0A%20%20%20%20%20%20%20%3C%2FMediaFile%3E%0A%20%20%20%20%20%20%3C%2FMediaFiles%3E%0A%20%20%20%20%20%3C%2FLinear%3E%0A%20%20%20%20%3C%2FCreative%3E%0A%20%20%20%3C%2FCreatives%3E%0A%20%20%3C%2FInLine%3E%0A%20%3C%2FAd%3E%0A%3C%2FVAST%3E%0A"
             }
          ]
       }

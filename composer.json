@@ -1,10 +1,10 @@
 {
-  "name": "venatus/openrtb",
-  "description": "Venatus OpenRTB",
+  "name": "beishanwen/php-openrtb",
+  "description": "beishanwen php OpenRTB",
   "authors": [
     {
-      "name": "Chris Beck",
-      "email": "chrisb@venatusmedia.com"
+      "name": "Strick Yan",
+      "email": "beishanwen@gmail.com"
     }
   ],
   "require": {

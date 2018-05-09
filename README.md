@@ -1,10 +1,8 @@
-Please note: This project is not supported. We are not activily using the PHP implementation - Project was paused before it was fully completed. Work is required on tests and upgrade to latest version of the Open RTB specification.
+# OpenRTB 2.4 for PHP
 
-# OpenRTB 2.3.1 for PHP
+This library has been created for PHP developers using the OpenRTB protocol. It provides a very lightweight wrapper to create, validate, and hydrate **Bid Requests** and **Bid Responses**. Getting started could not be easier, find our package on packagist: https://packagist.org/packages/beishanwen/php-openrtb
 
-This library has been created for PHP developers using the OpenRTB protocol. It provides a very lightweight wrapper to create, validate, and hydrate **Bid Requests** and **Bid Responses**. Getting started could not be easier, find our package on packagist: https://packagist.org/packages/venatus/openrtb
-
-Install by adding { .. "venatus/openrtb": "0.1" .. } to your composer.json file.
+Install by adding { .. "beishanwen/php-openrtb": "0.1" .. } to your composer.json file.
 
 The wrapper requires Guzzle. This can be used to further extends the library where required. More information about Guzzle can be found here: http://guzzle.readthedocs.org/en/latest/
 
@@ -21,7 +19,7 @@ curl -sS https://getcomposer.org/installer | php
 Next, run the Composer command to install the latest stable version of Guzzle:
 
 ```bash
-composer.phar require venatus/openrtb
+composer.phar require beishanwen/php-openrtb
 ```
 
 After installing, you need to require Composer's autoloader:
